@@ -13,6 +13,10 @@ void merge(){
     // 
 }
 
+void insertion(){
+    // 
+}
+
 int main(){
     cout<<"Hello World!!";
     cout<<"i am a boy";
